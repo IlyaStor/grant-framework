@@ -111,7 +111,7 @@ As a white-label solution, Rubic’s SDK can be easily integrated into any envir
 - https://algebra.finance/
 - https://www.kryptomon.co/token
 
-##Future Plans
+## Future Plans
 
 **Development Roadmap up to the Q2 2023:** 
 - NFT/GameFi widget (Widget for NFT swaps)
@@ -121,7 +121,7 @@ As a white-label solution, Rubic’s SDK can be easily integrated into any envir
 - NFT bridge (To purchase NFT on exact blockchain for tokens on the other one)
 - Mobile web version (To make Rubic more convinient for mobule devise users)
 
-##Additional information
+## Additional information
 
 Rubic team is working hard to achieve its goals taking into account flactuations of the market and new trends. We are oriented on making the user experience who utilize our platform great. Moreover, other projects on any supported chain is welcome to discuss partnership potentialities with us by integration our tools and getting income together with us. 
 Our team have already applied on different grants and won them - Symbiosis, Telos, Celer, Harmony, Polygon, Near, Bitgert. 
