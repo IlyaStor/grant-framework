@@ -44,10 +44,12 @@ Rubic is not only a One-click Cross-Chain app but also a set of tools to enable 
  
  ## Team
  
- Team members of the project can be seen by users on right on the website by following relevant for that matter page. Team in not undoxxed. Additional info potentially can be presented by according to proper request.
+ Team members of the project can be seen by users on right on the website by following relevant for that matter page. Team in not undoxxed. Additional info potentially can be presented by proper request.
  
 ## Team members
+
    Rubic’s team is international and is mainly based in Eastern Europe, Germany, and the USA.
+   
    - **Founders:** Vladimir Tikhomirov, Alexandra Korneva
    - Eugene Korol
    - Kirill Kuzmin
