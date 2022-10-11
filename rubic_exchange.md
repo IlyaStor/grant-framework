@@ -44,7 +44,7 @@ Rubic is not only a One-click Cross-Chain app but also a set of tools to enable 
  
  ## Team
  
- Team members of the project can be seen by users on right on the website by following relevant for that matter page. Team in not undoxxed. Additional info potentially can be presented by proper request.
+ Team members of the project can be seen by users right on the website by following relevant for that matter page. Team in not undoxxed. Additional info potentially can be presented by proper request.
  
 ## Team members
 
