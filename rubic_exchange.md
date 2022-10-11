@@ -130,6 +130,6 @@ As a white-label solution, Rubic’s SDK can be easily integrated into any envir
 **How did you hear about the Grants Program?** 
 About Grant Program of EOS we heard from Discord channel. After examination of network itself we sent official email and got answer by Randall Roland regarding granting opportunities.
 
-Rubic team is working hard to achieve its goals taking into account flactuations of the market and new trends. We are oriented on making the user experience who utilize our platform great. Moreover, other projects on any supported chain is welcome to discuss partnership potentialities with us by integration our tools and getting income together with us. 
+Rubic team is working hard to achieve its goals taking into account flactuations of the market and new trends. We are oriented on making the user experience who utilize our platform great. Moreover, any project on any supported chain is welcome to discuss partnership potentialities with us.
 
 Our team have already applied on different grants and won them - Symbiosis, Telos, Celer, Harmony, Polygon, Near, Bitgert. 
