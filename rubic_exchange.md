@@ -76,7 +76,7 @@ Rubic is not only a One-click Cross-Chain app but also a set of tools to enable 
   - **Registered Adress:** TEC Business Center FZE, Level 3, The Offices 3, One Central, World Trade Center, Dubai - UAE, Reg number: 1533
 
 ### Team Experience
-- Rubic was launched in September 2020. Majority of the team have been working on the Rubic since that time. We follow the market trends, looking for development on the blockchain indusrty, updating project permanently. According to the expansion of our tools and partners team has been increasing as well for proper assistance and further growth. Team pays attention to each integration, partner and swap made on Rubic's platform. Our focus is to unify GameFi, DeFi, NFT sphere in all possible matters. The NFT widget will be released soon. 
+- Rubic was launched in September 2020. Majority of the team have been working on the Rubic since that time. We follow the market trends, looking for development on the blockchain indusrty, improve project permanently. According to the expansion of our tools and partners team increases as well for proper assistance and further growth. Team pays attention to each integration, partner and swap made on Rubic's platform. Our focus is to unify GameFi, DeFi, NFT sphere in all possible matters. The NFT widget will be released soon. 
 
 ### Team Org Repos
 **Organization:**
